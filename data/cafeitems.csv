@@ -1,0 +1,52 @@
+id,name,category,price,stock,created_at
+6,White Espresso,Beverage,999999,999999,1/08/1909 11:00
+6,Espresso,Beverage,3,30,1/08/2025 11:00
+7,Flat White and a scone,Beverage and Snack,4.2 and 3.92,25 and 12,1/08/2025 11:00
+8,Blueberry Muffin,Pastry,3.8,15,1/08/2025 11:00
+9,Bagel,Pastry,2.5,20,1/08/2025 11:00
+10,Americano,Beverage,3.5,40,1/08/2025 11:00
+11,Mocha,Beverage,4.75,18,1/08/2025 11:00
+12,Chocolate Cake,Pastry,4,10,1/08/2025 11:00
+13,Banana Bread,Pastry,3.6,14,1/08/2025 11:00
+14,Iced Coffee,Beverage,4,22,1/08/2025 11:00
+15,Iced Tea,Beverage,3.5,30,1/08/2025 11:00
+16,Caramel Latte,Beverage,4.5,20,1/08/2025 11:00
+17,Lemon Tart,Pastry,3.9,12,1/08/2025 11:00
+18,Scone,Pastry,3.2,18,1/08/2025 11:00
+19,Croissant Sandwich,Pastry,5,10,1/08/2025 11:00
+20,Chai Latte,Beverage,4.1,15,1/08/2025 11:00
+21,Herbal Tea,Beverage,3.2,35,1/08/2025 11:00
+22,Cinnamon Roll,Pastry,3.75,20,1/08/2025 11:00
+23,Greek Yogurt Parfait,Snack,5.5,10,1/08/2025 11:00
+24,Fruit Salad,Snack,4.5,16,1/08/2025 11:00
+25,Orange Juice,Beverage,3,30,1/08/2025 11:00
+26,Apple Juice,Beverage,3,30,1/08/2025 11:00
+27,Water Bottle,Beverage,2,50,1/08/2025 11:00
+28,Ham & Cheese Toastie,Snack,5.5,12,1/08/2025 11:00
+29,Chicken Wrap,Snack,6,14,1/08/2025 11:00
+30,Quiche,Pastry,4.8,15,1/08/2025 11:00
+31,Macchiato,Beverage,3.5,18,1/08/2025 11:00
+32,Peach Iced Tea,Beverage,3.8,20,1/08/2025 11:00
+33,Chocolate Chip Cookie,Pastry,2.5,40,1/08/2025 11:00
+34,Almond Croissant,Pastry,4.2,12,1/08/2025 11:00
+35,Vanilla Latte,Beverage,4.3,22,1/08/2025 11:00
+36,Tuna Salad,Snack,6,10,1/08/2025 11:00
+37,Spinach & Feta Roll,Pastry,4,14,1/08/2025 11:00
+38,Pumpkin Soup,Snack,5,10,1/08/2025 11:00
+39,Berry Smoothie,Beverage,5,15,1/08/2025 11:00
+40,Matcha Latte,Beverage,4.5,18,1/08/2025 11:00
+41,Croissant with Jam,Pastry,3.5,20,1/08/2025 11:00
+42,Veggie Sandwich,Snack,5.5,12,1/08/2025 11:00
+43,Caprese Salad,Snack,6.5,10,1/08/2025 11:00
+44,Flat White Almond Milk,Beverage,4.6,20,1/08/2025 11:00
+45,Hot Chocolate,Beverage,3.8,25,1/08/2025 11:00
+46,Pecan Pie,Pastry,4.5,10,1/08/2025 11:00
+47,Blueberry Scone,Pastry,3.6,18,1/08/2025 11:00
+48,Egg & Bacon Roll,Snack,5.8,15,1/08/2025 11:00
+49,Avocado Toast,Snack,6,12,1/08/2025 11:00
+50,Lemonade,Beverage,3,35,1/08/2025 11:00
+51,Choc Chip Muffin,Pastry,3.8,20,1/08/2025 11:00
+52,Raspberry Tart,Pastry,4.2,10,1/08/2025 11:00
+53,Herbal Infusion,Beverage,3.2,30,1/08/2025 11:00
+54,Cappuccino Decaf,Beverage,4.5,20,1/08/2025 11:00
+55,Chicken Caesar Wrap,Snack,6.2,14,1/08/2025 11:00
